@@ -1,0 +1,58 @@
+1. https://www.javatpoint.com/sql-composite-key  
+understanding the syntax of to col that conacted in PRIMARY KEY
+
+2. https://docs.oracle.com/javase/7/docs/api/java/sql/Statement.html
+understanding of RETURN_GENERATED_KEYS and getGeneratedKeys()
+
+3.https://www.sqlitetutorial.net/sqlite-replace-statement/
+understanding syntaxs of INSERT OR REPLACE
+
+4.https://stackoverflow.com/
+questions/34409421/checking-if-a-user-exists-java-jdbc-and-mysql
+an exempel of some row in the table, EXISTS syntaxs
+
+5.https://www.xspdf.com/resolution/50353668.html
+deeping understanding of check if someting exeist in the table
+
+6.https://phpdelusions.net/pdo_examples/check_email_exists
+understanding the logic of checking if someting in the table - check if the return table is empty 
+
+7.https://alvinalexander.com/java/edu/pj/jdbc/jdbc0002/
+execute of insert and exemple of class in java that use SQL
+
+8.https://www.w3schools.com/sql/sql_exists.asp
+deeping understanding of exists
+
+9.https://stackoverflow.com/
+questions/39269003/insert-values-of-arraylist-into-mysql-table/39269335
+understanding the syntax in arrylist<object>
+
+10.https://www.geeksforgeeks.org/java-sql-timestamp-gettime-function-with-examples/
+deeping understanding of gettime() matohd
+
+11.https://www.programcreek.com/java-api-examples/?class=java.sql.PreparedStatement&method=getGeneratedKeys
+deeping understanding of getGeneratedKeys()
+
+12.https://www.tutorialspoint.com/java-resultset-next-method-with-example
+understanding of ResultSet anf mathod next()
+
+13.https://stackoverflow.com/questions/11574442/inner-join-vs-inner-join-select-from
+understanding of using select in inner join
+
+14.https://www.essentialsql.com/get-ready-to-learn-sql-server-20-using-subqueries-in-the-select-statement/
+deeping understanding of using select with another sql statmant and select inside select statmant
+
+15.https://www.dofactory.com/sql/subquery
+understanding of sql statmant that have sql statment within
+
+16.https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial
+understanding of sql statmant that have sql statment within
+
+17.https://www.w3schools.com/sql/sql_ref_as.asp
+deeping understanding of sql statmant that have sql statment within
+
+18.https://www.sqlshack.com/a-step-by-step-walkthrough-of-sql-inner-join/
+exempe of join table with more than one conditions, learn AS syntax
+
+19.https://www.w3schools.com/sql/sql_orderby.asp
+deeping understanding of AS syntax
